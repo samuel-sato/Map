@@ -1,0 +1,38 @@
+Engenharia de Requisitos.
+
+O que é?
+Atua no estabelecimento de requisitos a serem atendidos pelo sistem.
+Área que faz a ponte entre contratante e desenvolvedor
+
+Foco:
+-descobrir
+-desenvolver
+-rastrear
+-analisar
+-qualificar
+-verificar
+-validar
+-comunicar
+-documentar
+-gerenciar
+==Requisitos
+
+Como fazer ER?
+#Fazer de forma sequencia
+-Elicitação de requisitos
+	Visa identificar e registrar necessidades dos clientes e usuarios
+-Analise de requisitos
+	Avaliação de quão implementavel são os requisitos identificados
+-Documentação de requisitos
+	Tecnicas de registro para escrever o documento de quisisitos (Ex: user story, caso de uso) separa em funcinais e não funcionais
+-Validação de requisitos
+	Validar consistencia, precisão, do requisitos
+-Verificação de requisitos
+	Confirmação
+
+Gerenciamento de requisitos
+Por meio da realização de atividades que visam identificar, manter/atualizar,
+rastrear, comunicar/dar visibilidade dos requisitos ao longo do ciclo de vida de
+uma solução de software
+
+

@@ -1,0 +1,20 @@
+to do list
+
+# Refazer todo módulo2
+Objetivo(s):
+• Teórico(s):
+	• Fundamentos de ER (Engenharia de Requisitos)
+	• Visão Geral do SAFe
+	• Estrutura de organização de requisitos ágeis (SAFe)
+• Prático(s):
+	• Organizar e definir o backlog do produto, a partir da estrutura de requisitos ágeis proposta
+pelo SAFe
+
+Entrega(s):
+	• Visão do Produto e Projeto (atualizado)
+	• Backlog do Produto; organizado conforme a estrutura de requisitos utilizada pelo SAFe
+	• Quadro Kanbam do Projeto (disponível para o professor)
+	• Quadro Canvas MVP (disponível para o professor)
+	• Vídeo de apresentação das entregas
+
+
